@@ -1,0 +1,10 @@
+734
+butter 1
+toasted_bread 1
+sausage 2
+egg 4
+milk 2
+salt 1
+cream 0
+sandwich 6.0 13.29 21.5 228.3
+omelet 57.36 57.54 5.314 177.8
